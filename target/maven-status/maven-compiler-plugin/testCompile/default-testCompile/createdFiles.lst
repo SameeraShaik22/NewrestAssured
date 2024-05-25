@@ -1,3 +1,7 @@
 assertionexamples\PostmanTest.class
+assertionexamples\Pets.class
 assertionexamples\NewNumberRelatedAssertionTest.class
+assertionexamples\BoaredapiTesting.class
+assertionexamples\BoaredapiTesting$gmailBrowser.class
+assertionexamples\ParameterizedTests.class
 assertionexamples\NumberRelatedAssertionTests.class
